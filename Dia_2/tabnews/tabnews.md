@@ -1,6 +1,6 @@
 # Sobre o TabNews
 
-O TabNews é um projeto que criei para facilitar o acesso às notícias de forma rápida e conveniente diretamente do seu navegador. Ele oferece uma extensão para Google Chrome e Mozilla Firefox que exibe as manchetes mais recentes de várias fontes de notícias em uma nova aba do navegador. É uma ótima maneira de ficar atualizado sem esforço enquanto navega na web. 📰
+O TabNews é um projeto criado para facilitar o acesso às notícias de forma rápida e conveniente diretamente do seu navegador. Ele oferece uma extensão para Google Chrome e Mozilla Firefox que exibe as manchetes mais recentes de várias fontes de notícias em uma nova aba do navegador. É uma ótima maneira de ficar atualizado sem esforço enquanto navega na web. 📰
 
 O código-fonte do TabNews está hospedado no GitHub como um repositório público. Lá, você pode encontrar todo o código necessário para desenvolver, contribuir e até mesmo personalizar o projeto de acordo com suas necessidades. 💻
 

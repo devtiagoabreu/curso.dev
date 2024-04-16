@@ -1,6 +1,6 @@
 # Apresentando: curso.dev
 
-Olá a todos os entusiastas da programação e aspirantes a desenvolvedores! Estou muito empolgado em compartilhar com vocês o meu mais novo curso: curso.dev! 🚀
+Olá a todos os entusiastas da programação e aspirantes a desenvolvedores! Estou muito empolgado em compartilhar com vocês o curso que estou fazendo: curso.dev, do Filipe Deschamps! 🚀
 
 ## O que é o curso.dev?
 
